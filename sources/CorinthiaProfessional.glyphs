@@ -269,7 +269,7 @@ verticalStems = (
 52,
 63
 );
-weightValue = 400;
+weightValue = 500;
 widthValue = 5;
 xHeight = 250;
 },
@@ -358,7 +358,7 @@ verticalStems = (
 63
 );
 weight = Bold;
-weightValue = 400;
+weightValue = 700;
 widthValue = 5;
 xHeight = 250;
 }
@@ -217958,18 +217958,29 @@ note = HT;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "CorinthiaProfessional-Regular";
+interpolationWeight = 400;
+interpolationWidth = 5;
+instanceInterpolations = {
+"57DEED6F-9A00-47D0-BD9B-6FE09716AB2D" = 1;
+};
+name = Regular;
 },
 {
-name = postscriptFontName;
-value = "CorinthiaProfessional-Regular";
-}
-);
-name = Regular;
-weightClass = Normal;
+interpolationWeight = 500;
+interpolationWidth = 5;
+instanceInterpolations = {
+"A9A9B55F-A222-44B0-A0B6-968BE501F3F8" = 1;
+};
+name = Medium;
+},
+{
+interpolationWeight = 700;
+interpolationWidth = 5;
+instanceInterpolations = {
+"AFE3E0A9-A514-4B93-8E4E-B7D18C88F31C" = 1;
+};
+isBold = 1;
+name = Bold;
 }
 );
 kerning = {
