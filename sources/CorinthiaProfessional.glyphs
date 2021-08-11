@@ -194778,6 +194778,7 @@ instanceInterpolations = {
 "A9A9B55F-A222-44B0-A0B6-968BE501F3F8" = 1;
 };
 name = Medium;
+weightClass = Medium;
 },
 {
 interpolationWeight = 700;
@@ -194787,6 +194788,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 name = Bold;
+weightClass = Bold;
 }
 );
 kerning = {
