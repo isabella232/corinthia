@@ -1,5 +1,5 @@
 {
-.appVersion = "1356";
+.appVersion = "1352";
 DisplayStrings = (
 "/Gbreve",
 "T/Tbar",
@@ -193,11 +193,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 744;
+value = 853;
 },
 {
 name = winDescent;
-value = 468;
+value = 447;
 },
 {
 name = strikeoutPosition;
@@ -206,6 +206,10 @@ value = 250;
 {
 name = strikeoutSize;
 value = 50;
+},
+{
+name = underlinePosition;
+value = -75;
 }
 );
 descender = -400;
@@ -270,11 +274,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 736;
+value = 853;
 },
 {
 name = winDescent;
-value = 431;
+value = 447;
 },
 {
 name = strikeoutPosition;
@@ -359,11 +363,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 736;
+value = 853;
 },
 {
 name = winDescent;
-value = 431;
+value = 447;
 },
 {
 name = strikeoutPosition;
@@ -153795,5 +153799,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 5;
+versionMinor = 6;
 }
