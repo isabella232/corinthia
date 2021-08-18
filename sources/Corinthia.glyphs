@@ -17,7 +17,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2010 The Corinthia Professional Project Authors (https://github.com/googlefonts/corinthia)";
+copyright = "Copyright 2010 The Corinthia Project Authors (https://github.com/googlefonts/corinthia)";
 customParameters = (
 {
 name = licenseURL;
@@ -67,7 +67,7 @@ Tag = wght;
 date = "2021-08-11 14:22:23 +0000";
 designer = "Robert E. Leuschke";
 designerURL = www.typesetit.com;
-familyName = "Corinthia Professional";
+familyName = Corinthia;
 featurePrefixes = (
 {
 automatic = 1;
@@ -154335,5 +154335,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 6;
+versionMinor = 10;
 }
